@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, fellow coders!</h1>
+<h1 align="center">Greetings, Fellow Coders!</h1>
 
 <table width="100%">
     <tr>
