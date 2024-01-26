@@ -8,7 +8,7 @@
 
 - 🌱 I'm a third year Computer Science student at Memorial University.
 - 🌱 I'm currently learning Machine Learning, Full-Stack Web and Blockchain Development.
-- 🔭 I'm currently looking for Software Development internships in Winter 2024.
+- 🔭 I'm currently looking for Software Development internships in Summer 2024.
 - 📫 Reach out to me at [LinkedIn](https://www.linkedin.com/in/mianusamaijaz/) or muijaz@mun.ca
     </td>
     <td>
