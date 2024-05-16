@@ -28,7 +28,7 @@
 ### Frontend
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,next&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,react,next&perline=7" />
 </a>
 </div>
     
