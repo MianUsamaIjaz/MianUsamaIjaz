@@ -8,7 +8,7 @@
 
 - 🌱 I'm a third year Computer Science student at Memorial University.
 - 🌱 I'm currently learning Full-Stack Web Development, Data Science, and Machine Learning.
-- 🔭 I'm currently looking for Software Development internships starting in Fall 2024.
+- 🌱 I'm currently working as a Software Developer (Co-op) Intern at Breton Group.
 - 📫 Reach out to me at [LinkedIn](https://www.linkedin.com/in/mianusamaijaz/) or muijaz@mun.ca
     </td>
     <td>
@@ -28,7 +28,7 @@
 ### Frontend
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,react,next&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,react,next,angular&perline=8" />
 </a>
 </div>
     
