@@ -39,7 +39,7 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=express,git,java,nodejs,mysql,mongodb,postgresql,postman&perline=8">
 <br>
-<img src="https://skillicons.dev/icons?i=py,net,c#&perline=3">
+<img style="display:flex; justify-content:flex-start;" src="https://skillicons.dev/icons?i=py,net,c#&perline=3">
 </a>
 </div>
     
