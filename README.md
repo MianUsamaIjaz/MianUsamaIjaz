@@ -38,7 +38,7 @@
 ### Backend
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=express,git,java,nodejs,mysql,mongodb,postgresql,postman,py&perline=11" />
+<img src="https://skillicons.dev/icons?i=express,git,java,nodejs,mysql,mongodb,postgresql,postman,py,net,c#&perline=8" />
 </a>
 </div>
     
